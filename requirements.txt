@@ -1,0 +1,17 @@
+asgiref
+click
+colorama
+Django
+gunicorn
+importlib-metadata
+joblib
+nltk
+numpy
+pytz
+regex
+sqlparse
+tqdm
+typing-extensions
+zipp
+whitenoise
+django-heroku
