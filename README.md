@@ -19,7 +19,7 @@
 <h2> Building features and Logistic Regression model
 <h3> Firstly we will understand how to deal with text data and produce feature set from the data. Second, we will build our own Logistic Regression model to predict sentiment of the data. </h3>
   <br> 
-<img src="Screenshots/Screenshot (0).png" />
+<img src="Screenshots/Screenshot (0).jpeg" />
 <br> <br>
 
 <br>
